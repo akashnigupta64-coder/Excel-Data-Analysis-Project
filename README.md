@@ -74,6 +74,8 @@ The goal of this project is to demonstrate my ability to **clean, process, and v
 
 ## 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashni-gupta/)  
-  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashnigupta64-coder/akashnigupta-64coder)
+
+ 
 
 
