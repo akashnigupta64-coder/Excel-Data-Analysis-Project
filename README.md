@@ -28,7 +28,7 @@ The goal of this project is to demonstrate my ability to **clean, process, and v
 ---
 
 ## 📸 Dashboard Preview  
-![Dashboard Screenshot](Sales_Dashboard.png)   
+![Dashboard Screenshot](![Alt text]((path/to/images/Sales_Dashboard.png)))   
 
 ---
 
