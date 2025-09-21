@@ -29,6 +29,7 @@ The goal of this project is to demonstrate my ability to **clean, process, and v
 
 ## 📸 Dashboard Preview  
 ![Dashboard Screenshot](https://github.com/akashnigupta64-coder/Images/blob/main/Sales_Dashboard.png?raw=true)
+[📂 Download the Excel File](Sales_Dashboard.xlsx)
 
 
 ---
