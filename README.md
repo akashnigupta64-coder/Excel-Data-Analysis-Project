@@ -1,4 +1,4 @@
-# 📊 Excel Sales Dashboard
+# 📊 Sales Dashboard-Excel
 
 ## 📌 Project Overview  
 This project is an **interactive Excel Dashboard** created to analyze and visualize sales data.  
