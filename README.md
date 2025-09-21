@@ -28,7 +28,31 @@ The goal of this project is to demonstrate my ability to **clean, process, and v
 ---
 
 ## 📸 Dashboard Preview  
-![Dashboard Screenshot](https://github.com/akashnigupta64-coder/Images/blob/main/Sales_Dashboard.png?raw=true)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/akashnigupta64-coder/Images/blob/main/Sales_Dashboard.png?raw=true" width="800"/>
+      <br><sub><b>Sales Dashboard</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/akashnigupta64-coder/Images/blob/main/Dashboard_Insights.png?raw=true" width="800"/>
+      <br><sub><b>Dashboard Insights</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/akashnigupta64-coder/Images/blob/main/Pivot_Tables.png?raw=true" width="800"/>
+      <br><sub><b>Pivot Tables</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/akashnigupta64-coder/Images/blob/main/Source_Data.png?raw=true" width="800"/>
+      <br><sub><b>Source Data</b></sub>
+    </td>
+  </tr>
+</table>
+
+
+
 [📂 Download the Excel File](Sales_Dashboard.xlsx)
 
 
